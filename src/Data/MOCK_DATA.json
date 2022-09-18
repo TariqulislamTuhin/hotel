@@ -1,0 +1,801 @@
+[{
+  "id": 1,
+  "title": "Magal Security Systems Ltd.",
+  "image": "http://dummyimage.com/220x100.png/ff4444/ffffff",
+  "address": "355 Morningstar Park",
+  "price": "$48.24",
+  "offer": true,
+  "discount": "$3.54"
+}, {
+  "id": 2,
+  "title": "Genetic Technologies Ltd",
+  "image": "http://dummyimage.com/186x100.png/dddddd/000000",
+  "address": "9 Waywood Park",
+  "price": "$23.30",
+  "offer": false,
+  "discount": "$0.85"
+}, {
+  "id": 3,
+  "title": "The KEYW Holding Corporation",
+  "image": "http://dummyimage.com/140x100.png/dddddd/000000",
+  "address": "13 Carioca Place",
+  "price": "$38.14",
+  "offer": true,
+  "discount": "$1.01"
+}, {
+  "id": 4,
+  "title": "National Storage Affiliates Trust",
+  "image": "http://dummyimage.com/232x100.png/5fa2dd/ffffff",
+  "address": "57926 Annamark Way",
+  "price": "$10.64",
+  "offer": false,
+  "discount": "$5.25"
+}, {
+  "id": 5,
+  "title": "Meritor, Inc.",
+  "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+  "address": "828 Pankratz Alley",
+  "price": "$14.48",
+  "offer": false,
+  "discount": "$2.15"
+}, {
+  "id": 6,
+  "title": "Molina Healthcare Inc",
+  "image": "http://dummyimage.com/219x100.png/cc0000/ffffff",
+  "address": "89 Jana Avenue",
+  "price": "$16.11",
+  "offer": true,
+  "discount": "$4.50"
+}, {
+  "id": 7,
+  "title": "Urban Edge Properties",
+  "image": "http://dummyimage.com/201x100.png/dddddd/000000",
+  "address": "147 Corben Plaza",
+  "price": "$12.51",
+  "offer": true,
+  "discount": "$8.91"
+}, {
+  "id": 8,
+  "title": "Xenith Bankshares, Inc.",
+  "image": "http://dummyimage.com/230x100.png/cc0000/ffffff",
+  "address": "390 Browning Hill",
+  "price": "$19.26",
+  "offer": true,
+  "discount": "$7.57"
+}, {
+  "id": 9,
+  "title": "PowerShares KBW Regional Banking Portfolio",
+  "image": "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+  "address": "6879 Straubel Trail",
+  "price": "$15.78",
+  "offer": false,
+  "discount": "$8.69"
+}, {
+  "id": 10,
+  "title": "MFA Financial, Inc.",
+  "image": "http://dummyimage.com/149x100.png/ff4444/ffffff",
+  "address": "38467 Arkansas Parkway",
+  "price": "$49.45",
+  "offer": true,
+  "discount": "$3.79"
+}, {
+  "id": 11,
+  "title": "Morgan Stanley India Investment Fund, Inc.",
+  "image": "http://dummyimage.com/127x100.png/cc0000/ffffff",
+  "address": "1488 Brentwood Circle",
+  "price": "$24.35",
+  "offer": true,
+  "discount": "$4.58"
+}, {
+  "id": 12,
+  "title": "Nuveen High Income December 2019 Target Term Fund",
+  "image": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+  "address": "1 Judy Place",
+  "price": "$24.02",
+  "offer": false,
+  "discount": "$6.67"
+}, {
+  "id": 13,
+  "title": "Concurrent Computer Corporation",
+  "image": "http://dummyimage.com/235x100.png/ff4444/ffffff",
+  "address": "070 Corben Pass",
+  "price": "$42.87",
+  "offer": false,
+  "discount": "$8.21"
+}, {
+  "id": 14,
+  "title": "Green Plains Partners LP",
+  "image": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+  "address": "39685 Garrison Trail",
+  "price": "$46.81",
+  "offer": false,
+  "discount": "$3.91"
+}, {
+  "id": 15,
+  "title": "Eastman Kodak Company",
+  "image": "http://dummyimage.com/153x100.png/5fa2dd/ffffff",
+  "address": "42 Kenwood Avenue",
+  "price": "$22.38",
+  "offer": true,
+  "discount": "$1.39"
+}, {
+  "id": 16,
+  "title": "Summit Hotel Properties, Inc.",
+  "image": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+  "address": "4 Hansons Junction",
+  "price": "$12.46",
+  "offer": false,
+  "discount": "$8.00"
+}, {
+  "id": 17,
+  "title": "Pingtan Marine Enterprise Ltd.",
+  "image": "http://dummyimage.com/163x100.png/dddddd/000000",
+  "address": "5510 North Drive",
+  "price": "$12.44",
+  "offer": false,
+  "discount": "$7.60"
+}, {
+  "id": 18,
+  "title": "Vonage Holdings Corp.",
+  "image": "http://dummyimage.com/194x100.png/dddddd/000000",
+  "address": "71 Northland Lane",
+  "price": "$25.25",
+  "offer": true,
+  "discount": "$1.06"
+}, {
+  "id": 19,
+  "title": "Qwest Corporation",
+  "image": "http://dummyimage.com/192x100.png/dddddd/000000",
+  "address": "494 Weeping Birch Way",
+  "price": "$17.30",
+  "offer": false,
+  "discount": "$2.39"
+}, {
+  "id": 20,
+  "title": "Copart, Inc.",
+  "image": "http://dummyimage.com/149x100.png/dddddd/000000",
+  "address": "454 Dottie Alley",
+  "price": "$37.41",
+  "offer": false,
+  "discount": "$5.28"
+}, {
+  "id": 21,
+  "title": "Allete, Inc.",
+  "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff",
+  "address": "21 Sunfield Parkway",
+  "price": "$12.93",
+  "offer": true,
+  "discount": "$5.80"
+}, {
+  "id": 22,
+  "title": "Ciena Corporation",
+  "image": "http://dummyimage.com/131x100.png/dddddd/000000",
+  "address": "59 Bunker Hill Terrace",
+  "price": "$40.50",
+  "offer": true,
+  "discount": "$0.11"
+}, {
+  "id": 23,
+  "title": "Voya Infrastructure, Industrials and Materials Fund",
+  "image": "http://dummyimage.com/237x100.png/dddddd/000000",
+  "address": "2 7th Parkway",
+  "price": "$10.74",
+  "offer": true,
+  "discount": "$7.97"
+}, {
+  "id": 24,
+  "title": "Ocean Rig UDW Inc.",
+  "image": "http://dummyimage.com/163x100.png/ff4444/ffffff",
+  "address": "8 Surrey Trail",
+  "price": "$41.37",
+  "offer": true,
+  "discount": "$7.74"
+}, {
+  "id": 25,
+  "title": "Fossil Group, Inc.",
+  "image": "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+  "address": "8 Buena Vista Alley",
+  "price": "$20.91",
+  "offer": false,
+  "discount": "$5.73"
+}, {
+  "id": 26,
+  "title": "PowerShares DWA Healthcare Momentum Portfolio",
+  "image": "http://dummyimage.com/224x100.png/ff4444/ffffff",
+  "address": "4663 Graceland Plaza",
+  "price": "$39.17",
+  "offer": true,
+  "discount": "$6.92"
+}, {
+  "id": 27,
+  "title": "Harmony Merger Corp.",
+  "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
+  "address": "63497 Corscot Avenue",
+  "price": "$48.10",
+  "offer": false,
+  "discount": "$4.06"
+}, {
+  "id": 28,
+  "title": "Goldman Sachs Group, Inc. (The)",
+  "image": "http://dummyimage.com/183x100.png/cc0000/ffffff",
+  "address": "44 Farragut Point",
+  "price": "$18.97",
+  "offer": true,
+  "discount": "$3.13"
+}, {
+  "id": 29,
+  "title": "ABAXIS, Inc.",
+  "image": "http://dummyimage.com/198x100.png/dddddd/000000",
+  "address": "899 Green Trail",
+  "price": "$22.25",
+  "offer": true,
+  "discount": "$6.11"
+}, {
+  "id": 30,
+  "title": "Teekay Offshore Partners L.P.",
+  "image": "http://dummyimage.com/219x100.png/dddddd/000000",
+  "address": "64 Dottie Terrace",
+  "price": "$16.90",
+  "offer": true,
+  "discount": "$5.61"
+}, {
+  "id": 31,
+  "title": "Aralez Pharmaceuticals Inc.",
+  "image": "http://dummyimage.com/164x100.png/5fa2dd/ffffff",
+  "address": "85221 Sycamore Lane",
+  "price": "$13.67",
+  "offer": true,
+  "discount": "$0.52"
+}, {
+  "id": 32,
+  "title": "LRAD Corporation",
+  "image": "http://dummyimage.com/171x100.png/5fa2dd/ffffff",
+  "address": "945 Anniversary Way",
+  "price": "$40.16",
+  "offer": true,
+  "discount": "$0.66"
+}, {
+  "id": 33,
+  "title": "Timken Steel Corporation",
+  "image": "http://dummyimage.com/155x100.png/5fa2dd/ffffff",
+  "address": "25337 Kennedy Circle",
+  "price": "$12.25",
+  "offer": false,
+  "discount": "$7.11"
+}, {
+  "id": 34,
+  "title": "JPMorgan China Region Fund, Inc.",
+  "image": "http://dummyimage.com/194x100.png/cc0000/ffffff",
+  "address": "99 Anthes Parkway",
+  "price": "$12.31",
+  "offer": false,
+  "discount": "$5.76"
+}, {
+  "id": 35,
+  "title": "Abercrombie & Fitch Company",
+  "image": "http://dummyimage.com/137x100.png/dddddd/000000",
+  "address": "121 Ludington Parkway",
+  "price": "$31.18",
+  "offer": false,
+  "discount": "$8.07"
+}, {
+  "id": 36,
+  "title": "Chimera Investment Corporation",
+  "image": "http://dummyimage.com/124x100.png/cc0000/ffffff",
+  "address": "5 Mallory Plaza",
+  "price": "$20.63",
+  "offer": false,
+  "discount": "$6.23"
+}, {
+  "id": 37,
+  "title": "Magic Software Enterprises Ltd.",
+  "image": "http://dummyimage.com/216x100.png/dddddd/000000",
+  "address": "6 Atwood Lane",
+  "price": "$34.00",
+  "offer": false,
+  "discount": "$7.49"
+}, {
+  "id": 38,
+  "title": "Biostar Pharmaceuticals, Inc.",
+  "image": "http://dummyimage.com/124x100.png/cc0000/ffffff",
+  "address": "0774 Basil Avenue",
+  "price": "$22.36",
+  "offer": false,
+  "discount": "$3.14"
+}, {
+  "id": 39,
+  "title": "Coeur Mining, Inc.",
+  "image": "http://dummyimage.com/197x100.png/dddddd/000000",
+  "address": "41351 Manley Lane",
+  "price": "$14.72",
+  "offer": false,
+  "discount": "$0.94"
+}, {
+  "id": 40,
+  "title": "NXP Semiconductors N.V.",
+  "image": "http://dummyimage.com/238x100.png/ff4444/ffffff",
+  "address": "53644 Cardinal Street",
+  "price": "$21.91",
+  "offer": false,
+  "discount": "$3.33"
+}, {
+  "id": 41,
+  "title": "Blue Bird Corporation",
+  "image": "http://dummyimage.com/169x100.png/5fa2dd/ffffff",
+  "address": "9217 4th Place",
+  "price": "$41.25",
+  "offer": true,
+  "discount": "$4.90"
+}, {
+  "id": 42,
+  "title": "The Spectranetics Corporation",
+  "image": "http://dummyimage.com/187x100.png/ff4444/ffffff",
+  "address": "62039 Barby Alley",
+  "price": "$29.59",
+  "offer": false,
+  "discount": "$1.64"
+}, {
+  "id": 43,
+  "title": "Leggett & Platt, Incorporated",
+  "image": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+  "address": "22 Thierer Street",
+  "price": "$43.61",
+  "offer": true,
+  "discount": "$0.61"
+}, {
+  "id": 44,
+  "title": "BancFirst Corporation",
+  "image": "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
+  "address": "73561 Rowland Hill",
+  "price": "$41.63",
+  "offer": false,
+  "discount": "$6.55"
+}, {
+  "id": 45,
+  "title": "Delcath Systems, Inc.",
+  "image": "http://dummyimage.com/244x100.png/5fa2dd/ffffff",
+  "address": "659 Ruskin Terrace",
+  "price": "$14.28",
+  "offer": true,
+  "discount": "$5.09"
+}, {
+  "id": 46,
+  "title": "Riverview Bancorp Inc",
+  "image": "http://dummyimage.com/123x100.png/cc0000/ffffff",
+  "address": "59 Tennyson Way",
+  "price": "$24.48",
+  "offer": true,
+  "discount": "$5.65"
+}, {
+  "id": 47,
+  "title": "Sanofi",
+  "image": "http://dummyimage.com/114x100.png/ff4444/ffffff",
+  "address": "0330 Emmet Place",
+  "price": "$25.67",
+  "offer": true,
+  "discount": "$2.96"
+}, {
+  "id": 48,
+  "title": "PRA Health Sciences, Inc.",
+  "image": "http://dummyimage.com/206x100.png/5fa2dd/ffffff",
+  "address": "9 Knutson Junction",
+  "price": "$25.05",
+  "offer": true,
+  "discount": "$3.09"
+}, {
+  "id": 49,
+  "title": "Bank Mutual Corporation",
+  "image": "http://dummyimage.com/162x100.png/cc0000/ffffff",
+  "address": "134 Drewry Pass",
+  "price": "$18.22",
+  "offer": false,
+  "discount": "$8.20"
+}, {
+  "id": 50,
+  "title": "Citigroup Inc.",
+  "image": "http://dummyimage.com/102x100.png/ff4444/ffffff",
+  "address": "36 Sherman Crossing",
+  "price": "$37.36",
+  "offer": false,
+  "discount": "$2.39"
+}, {
+  "id": 51,
+  "title": "Guangshen Railway Company Limited",
+  "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff",
+  "address": "3115 Colorado Alley",
+  "price": "$29.84",
+  "offer": true,
+  "discount": "$1.49"
+}, {
+  "id": 52,
+  "title": "The Bancorp, Inc.",
+  "image": "http://dummyimage.com/130x100.png/ff4444/ffffff",
+  "address": "4 Annamark Way",
+  "price": "$34.78",
+  "offer": true,
+  "discount": "$4.36"
+}, {
+  "id": 53,
+  "title": "First Trust RiverFront Dynamic Emerging Markets ETF",
+  "image": "http://dummyimage.com/185x100.png/ff4444/ffffff",
+  "address": "448 Novick Point",
+  "price": "$32.70",
+  "offer": false,
+  "discount": "$0.05"
+}, {
+  "id": 54,
+  "title": "Medley Management Inc.",
+  "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+  "address": "375 Ryan Circle",
+  "price": "$19.80",
+  "offer": true,
+  "discount": "$8.74"
+}, {
+  "id": 55,
+  "title": "Valero Energy Corporation",
+  "image": "http://dummyimage.com/204x100.png/dddddd/000000",
+  "address": "26851 Milwaukee Avenue",
+  "price": "$44.97",
+  "offer": false,
+  "discount": "$5.16"
+}, {
+  "id": 56,
+  "title": "Jupai Holdings Limited",
+  "image": "http://dummyimage.com/202x100.png/dddddd/000000",
+  "address": "2823 Karstens Parkway",
+  "price": "$49.05",
+  "offer": false,
+  "discount": "$2.91"
+}, {
+  "id": 57,
+  "title": "Pier 1 Imports, Inc.",
+  "image": "http://dummyimage.com/239x100.png/cc0000/ffffff",
+  "address": "802 Eastwood Crossing",
+  "price": "$30.74",
+  "offer": true,
+  "discount": "$2.56"
+}, {
+  "id": 58,
+  "title": "Bank of America Corporation",
+  "image": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+  "address": "870 Dakota Parkway",
+  "price": "$35.63",
+  "offer": false,
+  "discount": "$8.03"
+}, {
+  "id": 59,
+  "title": "Matthews International Corporation",
+  "image": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
+  "address": "20791 Clarendon Point",
+  "price": "$30.16",
+  "offer": true,
+  "discount": "$8.21"
+}, {
+  "id": 60,
+  "title": "Xcel Energy Inc.",
+  "image": "http://dummyimage.com/161x100.png/ff4444/ffffff",
+  "address": "820 Buhler Street",
+  "price": "$36.58",
+  "offer": false,
+  "discount": "$4.96"
+}, {
+  "id": 61,
+  "title": "Vanguard Russell 1000 Growth ETF",
+  "image": "http://dummyimage.com/239x100.png/ff4444/ffffff",
+  "address": "45 Red Cloud Avenue",
+  "price": "$42.39",
+  "offer": false,
+  "discount": "$5.43"
+}, {
+  "id": 62,
+  "title": "Craft Brew Alliance, Inc.",
+  "image": "http://dummyimage.com/127x100.png/dddddd/000000",
+  "address": "179 Rowland Trail",
+  "price": "$16.58",
+  "offer": true,
+  "discount": "$0.00"
+}, {
+  "id": 63,
+  "title": "Logitech International S.A.",
+  "image": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+  "address": "84 Boyd Pass",
+  "price": "$45.09",
+  "offer": true,
+  "discount": "$8.65"
+}, {
+  "id": 64,
+  "title": "Spark Energy, Inc.",
+  "image": "http://dummyimage.com/177x100.png/ff4444/ffffff",
+  "address": "86 Comanche Trail",
+  "price": "$44.71",
+  "offer": false,
+  "discount": "$3.17"
+}, {
+  "id": 65,
+  "title": "argenx SE",
+  "image": "http://dummyimage.com/127x100.png/5fa2dd/ffffff",
+  "address": "18 Buhler Circle",
+  "price": "$14.73",
+  "offer": true,
+  "discount": "$4.80"
+}, {
+  "id": 66,
+  "title": "Old Republic International Corporation",
+  "image": "http://dummyimage.com/174x100.png/cc0000/ffffff",
+  "address": "4 Badeau Place",
+  "price": "$17.82",
+  "offer": true,
+  "discount": "$0.92"
+}, {
+  "id": 67,
+  "title": "Connecture, Inc.",
+  "image": "http://dummyimage.com/186x100.png/dddddd/000000",
+  "address": "0 Cody Pass",
+  "price": "$25.04",
+  "offer": true,
+  "discount": "$5.75"
+}, {
+  "id": 68,
+  "title": "Principal Millennials Index ETF",
+  "image": "http://dummyimage.com/129x100.png/dddddd/000000",
+  "address": "636 Hauk Parkway",
+  "price": "$48.74",
+  "offer": false,
+  "discount": "$6.82"
+}, {
+  "id": 69,
+  "title": "Koppers Holdings Inc.",
+  "image": "http://dummyimage.com/108x100.png/ff4444/ffffff",
+  "address": "374 Steensland Drive",
+  "price": "$11.83",
+  "offer": true,
+  "discount": "$6.71"
+}, {
+  "id": 70,
+  "title": "AmTrust Financial Services, Inc.",
+  "image": "http://dummyimage.com/246x100.png/dddddd/000000",
+  "address": "9 Emmet Place",
+  "price": "$47.43",
+  "offer": true,
+  "discount": "$0.18"
+}, {
+  "id": 71,
+  "title": "Nabors Industries Ltd.",
+  "image": "http://dummyimage.com/144x100.png/ff4444/ffffff",
+  "address": "22 Columbus Road",
+  "price": "$45.77",
+  "offer": false,
+  "discount": "$8.90"
+}, {
+  "id": 72,
+  "title": "Caesars Acquisition Company",
+  "image": "http://dummyimage.com/140x100.png/ff4444/ffffff",
+  "address": "5 Nancy Center",
+  "price": "$17.67",
+  "offer": false,
+  "discount": "$3.09"
+}, {
+  "id": 73,
+  "title": "RXi Pharmaceuticals Corporation",
+  "image": "http://dummyimage.com/133x100.png/5fa2dd/ffffff",
+  "address": "5495 Mallory Street",
+  "price": "$33.13",
+  "offer": false,
+  "discount": "$7.14"
+}, {
+  "id": 74,
+  "title": "BlackRock Utility and Infrastructure Trust",
+  "image": "http://dummyimage.com/204x100.png/dddddd/000000",
+  "address": "8 Maple Park",
+  "price": "$40.09",
+  "offer": false,
+  "discount": "$1.68"
+}, {
+  "id": 75,
+  "title": "Scudder Strategic Municiple Income Trust",
+  "image": "http://dummyimage.com/250x100.png/5fa2dd/ffffff",
+  "address": "842 Milwaukee Lane",
+  "price": "$25.43",
+  "offer": true,
+  "discount": "$8.91"
+}, {
+  "id": 76,
+  "title": "General Motors Company",
+  "image": "http://dummyimage.com/166x100.png/ff4444/ffffff",
+  "address": "73 Delladonna Junction",
+  "price": "$14.94",
+  "offer": true,
+  "discount": "$2.28"
+}, {
+  "id": 77,
+  "title": "Intercept Pharmaceuticals, Inc.",
+  "image": "http://dummyimage.com/216x100.png/5fa2dd/ffffff",
+  "address": "088 Kipling Park",
+  "price": "$23.51",
+  "offer": true,
+  "discount": "$5.66"
+}, {
+  "id": 78,
+  "title": "CoBiz Financial Inc.",
+  "image": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
+  "address": "7009 Dawn Court",
+  "price": "$49.39",
+  "offer": true,
+  "discount": "$5.15"
+}, {
+  "id": 79,
+  "title": "Glacier Bancorp, Inc.",
+  "image": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+  "address": "1 Dahle Circle",
+  "price": "$43.15",
+  "offer": false,
+  "discount": "$3.70"
+}, {
+  "id": 80,
+  "title": "Acadia Healthcare Company, Inc.",
+  "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+  "address": "5 Kingsford Alley",
+  "price": "$31.52",
+  "offer": false,
+  "discount": "$7.53"
+}, {
+  "id": 81,
+  "title": "MabVax Therapeutics Holdings, Inc.",
+  "image": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+  "address": "19 Lindbergh Trail",
+  "price": "$30.31",
+  "offer": true,
+  "discount": "$6.79"
+}, {
+  "id": 82,
+  "title": "Deutsche Bank AG",
+  "image": "http://dummyimage.com/229x100.png/cc0000/ffffff",
+  "address": "6 Merchant Park",
+  "price": "$42.75",
+  "offer": true,
+  "discount": "$1.33"
+}, {
+  "id": 83,
+  "title": "Blackrock MuniVest Fund II, Inc.",
+  "image": "http://dummyimage.com/153x100.png/dddddd/000000",
+  "address": "56681 Helena Alley",
+  "price": "$16.03",
+  "offer": true,
+  "discount": "$3.30"
+}, {
+  "id": 84,
+  "title": "STMicroelectronics N.V.",
+  "image": "http://dummyimage.com/208x100.png/dddddd/000000",
+  "address": "79 Russell Road",
+  "price": "$47.33",
+  "offer": true,
+  "discount": "$1.37"
+}, {
+  "id": 85,
+  "title": "BlackBerry Limited",
+  "image": "http://dummyimage.com/146x100.png/cc0000/ffffff",
+  "address": "1987 Bashford Street",
+  "price": "$20.09",
+  "offer": true,
+  "discount": "$6.87"
+}, {
+  "id": 86,
+  "title": "UMH Properties, Inc.",
+  "image": "http://dummyimage.com/170x100.png/cc0000/ffffff",
+  "address": "868 Dapin Place",
+  "price": "$21.05",
+  "offer": false,
+  "discount": "$0.42"
+}, {
+  "id": 87,
+  "title": "SunTrust Banks, Inc.",
+  "image": "http://dummyimage.com/193x100.png/dddddd/000000",
+  "address": "10 Green Ridge Crossing",
+  "price": "$11.16",
+  "offer": false,
+  "discount": "$2.39"
+}, {
+  "id": 88,
+  "title": "Central Valley Community Bancorp",
+  "image": "http://dummyimage.com/198x100.png/ff4444/ffffff",
+  "address": "3 Scoville Place",
+  "price": "$12.90",
+  "offer": true,
+  "discount": "$8.02"
+}, {
+  "id": 89,
+  "title": "SunTrust Banks, Inc.",
+  "image": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+  "address": "926 Lyons Place",
+  "price": "$17.60",
+  "offer": true,
+  "discount": "$4.23"
+}, {
+  "id": 90,
+  "title": "Solar Senior Capital Ltd.",
+  "image": "http://dummyimage.com/197x100.png/5fa2dd/ffffff",
+  "address": "40 Anhalt Parkway",
+  "price": "$34.05",
+  "offer": true,
+  "discount": "$6.80"
+}, {
+  "id": 91,
+  "title": "VictoryShares US Small Cap Volatility Wtd ETF",
+  "image": "http://dummyimage.com/216x100.png/ff4444/ffffff",
+  "address": "968 Coleman Center",
+  "price": "$42.40",
+  "offer": false,
+  "discount": "$4.76"
+}, {
+  "id": 92,
+  "title": "Medley LLC",
+  "image": "http://dummyimage.com/204x100.png/ff4444/ffffff",
+  "address": "6728 Chive Avenue",
+  "price": "$19.99",
+  "offer": true,
+  "discount": "$1.18"
+}, {
+  "id": 93,
+  "title": "Citizens Financial Group, Inc.",
+  "image": "http://dummyimage.com/177x100.png/cc0000/ffffff",
+  "address": "8092 Fairview Pass",
+  "price": "$30.51",
+  "offer": true,
+  "discount": "$3.76"
+}, {
+  "id": 94,
+  "title": "Flaherty & Crumrine Preferred Income Opportunity Fund Inc",
+  "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff",
+  "address": "5521 Londonderry Point",
+  "price": "$43.22",
+  "offer": true,
+  "discount": "$0.74"
+}, {
+  "id": 95,
+  "title": "Keryx Biopharmaceuticals, Inc.",
+  "image": "http://dummyimage.com/182x100.png/cc0000/ffffff",
+  "address": "98795 Swallow Trail",
+  "price": "$24.36",
+  "offer": true,
+  "discount": "$3.71"
+}, {
+  "id": 96,
+  "title": "First Trust Emerging Markets Small Cap AlphaDEX Fund",
+  "image": "http://dummyimage.com/134x100.png/5fa2dd/ffffff",
+  "address": "16 Northfield Avenue",
+  "price": "$34.61",
+  "offer": true,
+  "discount": "$8.38"
+}, {
+  "id": 97,
+  "title": "Pershing Gold Corporation",
+  "image": "http://dummyimage.com/190x100.png/dddddd/000000",
+  "address": "4 Summer Ridge Road",
+  "price": "$11.83",
+  "offer": false,
+  "discount": "$7.23"
+}, {
+  "id": 98,
+  "title": "Alpha and Omega Semiconductor Limited",
+  "image": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+  "address": "0 Saint Paul Circle",
+  "price": "$36.74",
+  "offer": true,
+  "discount": "$7.89"
+}, {
+  "id": 99,
+  "title": "Westport Fuel Systems Inc",
+  "image": "http://dummyimage.com/104x100.png/cc0000/ffffff",
+  "address": "97 Cherokee Crossing",
+  "price": "$46.60",
+  "offer": false,
+  "discount": "$7.84"
+}, {
+  "id": 100,
+  "title": "PayPal Holdings, Inc.",
+  "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
+  "address": "54560 Onsgard Center",
+  "price": "$40.87",
+  "offer": false,
+  "discount": "$7.01"
+}]
